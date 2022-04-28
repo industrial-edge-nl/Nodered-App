@@ -7,3 +7,4 @@ Download the .app file to import in Unified or your Industrial Edge Management. 
 
 ## Install using Industrial Edge Publisher
 - [Industrial Edge Publisher Manual](https://support.industry.siemens.com/cs/document/109810456/industrial-edge-app-publisher-operation-04-22?dti=0&dl=en&lc=nl-NL)
+- [upload-app-to-industrial-edge-managemen](https://github.com/industrial-edge/upload-app-to-industrial-edge-management)
