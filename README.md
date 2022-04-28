@@ -1,5 +1,5 @@
 # nodered
-Just clean version of node-red
+Clean version of node-red
 
 ## Install using .app File
 Download the .app file to import in Unified or your Industrial Edge Management. Extract first!
